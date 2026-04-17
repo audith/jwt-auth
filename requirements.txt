@@ -3,6 +3,6 @@ uvicorn
 sqlalchemy
 psycopg2-binary
 python-jose
-passlib[bcrypt]
+passlib[argon2]
 python-dotenv
 pydantic[email]
